@@ -1,0 +1,5 @@
+# Contribution Best Practices
+
+1. Read the project's contributing guidelines.
+1. Add a detailed test plan when submitting a pull request.
+1. Check your PR often to see if there is pending feedback you need to act on.
