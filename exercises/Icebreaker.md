@@ -15,3 +15,6 @@ My favorite quote is "YOUR_FAVORITE_QUOTE".
 </pre>
 
 ### Add Your Info Below...
+
+Hello, my name is Jessie Dowding.
+My favorite quote is "It does not matter how slowly you go as long as you do not stop. - Confucius".
