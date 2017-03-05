@@ -20,4 +20,4 @@ Hello, my name is Jessie Dowding.
 My favorite quote is "It does not matter how slowly you go as long as you do not stop. - Confucius".
 
 Hello, my name is Raza Hussain. 
-My favorite quote is "It's hard to beat a person who never gives up. ~ Babe Ruth "
+My favorite quote is "It's hard to beat a person who never gives up. - Babe Ruth "
