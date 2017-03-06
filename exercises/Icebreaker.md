@@ -16,6 +16,12 @@ My favorite quote is "YOUR_FAVORITE_QUOTE".
 
 ### Add Your Info Below...
 
+
+<pre>
+Hello my name is Mobeen Ashraf. I am a CS final year student. I like to code in various technologies and am not particularly aligned to any 1 language or technology. I like to learn and experiment with new things. My favorite quote is "Work is the best antidote to sorrows - Sherlock Holmes ".
+</pre>
+
+
 Hello, my name is Jessie Dowding.
 My favorite quote is "It does not matter how slowly you go as long as you do not stop. - Confucius".
 
