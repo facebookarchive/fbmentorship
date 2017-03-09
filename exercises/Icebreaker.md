@@ -29,3 +29,5 @@ Hello, my name is Usama Hameed.
 I am a Computer Science sophomore at the Lahore University of Management Sciences. I love programming, reading, singing. My favorite quote is "The people who are crazy enough to think they can change the world are the ones who do" - Steve Jobs
 
 Hello, my name is Rubab Zahra Sarfraz. I'm currently in my 2nd semester of MS CS at LUMS, Pakistan. I love to read, watch movies, solve complexproblems and eat. My favorite quote, nowadays, is "If you need inspirational words, don't do it." - Elon Musk 
+
+Hi, my name is Raza Hussain. My favorite quote is "It's hard to beat a person who never gives up." - Babe Ruth
