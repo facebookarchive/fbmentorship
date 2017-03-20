@@ -30,7 +30,6 @@ I am a Computer Science sophomore at the Lahore University of Management Science
 
 Hello, my name is Rubab Zahra Sarfraz. I'm currently in my 2nd semester of MS CS at LUMS, Pakistan. I love to read, watch movies, solve complexproblems and eat. My favorite quote, nowadays, is "If you need inspirational words, don't do it." - Elon Musk 
 
-<pre>
 Hello my name is Muhammad Mikaal Saleem Anwar.
 My favorite quote is "If there is no way, create one".
-</pre>
+
