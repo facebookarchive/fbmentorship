@@ -25,6 +25,9 @@ Hello my name is Mobeen Ashraf. I am a CS final year student. I like to code in 
 Hello, my name is Jessie Dowding.
 My favorite quote is "It does not matter how slowly you go as long as you do not stop. - Confucius".
 
+Hello, my name is Raza Hussain. 
+My favorite quote is "It's hard to beat a person who never gives up. - Babe Ruth "
+
 Hello, my name is Usama Hameed.
 I am a Computer Science sophomore at the Lahore University of Management Sciences. I love programming, reading, singing. My favorite quote is "The people who are crazy enough to think they can change the world are the ones who do" - Steve Jobs
 
