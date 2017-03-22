@@ -33,3 +33,5 @@ Hello, my name is Rubab Zahra Sarfraz. I'm currently in my 2nd semester of MS CS
 Hello my name is Muhammad Mikaal Saleem Anwar.
 My favorite quote is "If there is no way, create one".
 
+Hello my name is Coleman Maverick Johnston.
+My favorite quote is "Failure is simply the opportunity to begin again, this time more intelligently." - Henry Ford
