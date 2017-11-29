@@ -1,4 +1,8 @@
-# How to Create a Pull Request
+---
+id: contributing-create-a-pull-request
+title: How to Create a Pull Request
+sidebar_label: Create a Pull Request
+---
 
 Instructions on creating a pull request.
 

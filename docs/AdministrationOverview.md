@@ -1,4 +1,8 @@
-# Administration
+---
+id: admin-getting-started
+title: Overview
+sidebar_label: Overview
+---
 
 ## Selecting Projects and Mentors
 

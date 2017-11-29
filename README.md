@@ -3,4 +3,6 @@
 Resources for mentoring and contributing to open source.
 
 ## License
-This site is CC-BY-4.0-licensed
+The training code is [MIT licensed](./LICENSE).
+
+The documentation is [Creative Commons licensed](./LICENSE-docs).

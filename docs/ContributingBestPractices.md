@@ -1,4 +1,8 @@
-# Contribution Best Practices
+---
+id: contributing-best-practices
+title: Contribution Best Practices
+sidebar_label: Best Practices
+---
 
 1. Read the project's contributing guidelines.
 1. Add a detailed test plan when submitting a pull request.

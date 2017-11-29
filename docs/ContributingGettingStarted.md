@@ -1,4 +1,8 @@
-# Getting Started as a Contributor
+---
+id: contributing-getting-started
+title: Getting Started as a Contributor
+sidebar_label: Getting Started
+---
 
 Here's some steps you can take once you've identified a project you want to contribute to.
 

@@ -1,0 +1,35 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:7.10
+      
+    working_directory: ~/fbmentorship
+
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+          - dependencies-{{ .Branch }}-{{ checksum "training/yarn.lock" }}
+          # fallback to using the latest cache if no exact match is found
+          - dependencies-{{ .Branch }}-
+
+      - run:
+          name: Install Dependencies
+          command: |
+            cd training
+            yarn --non-interactive --cache-folder ~/.cache/yarn
+
+      - save_cache:
+          paths:
+            - training/node_modules
+            - ~/.cache/yarn
+          key: dependencies-{{ .Branch }}-{{ checksum "training/yarn.lock" }}
+        
+      # run tests!
+      - run: cd training && yarn test
+
+
+

@@ -1,6 +1,10 @@
-# Facebook Open Source Pilot Mentorship Program
+---
+id: program-overview
+title: Facebook Open Source Mentorship Program
+sidebar_label: Overview
+---
 
-Facebook Open Source is working on a pilot program to introduce developers to open source via a 4-week mentorship program. In this program, mentees will be mentored by a Facebook Engineer to work on a selected Facebook open source project.
+Facebook Open Source is working on a pilot program to introduce developers to open source via a 6-week mentorship program. In this program, mentees will be mentored by a Facebook Engineer to work on a selected Facebook open source project.
 
 As a mentee, you are expected to commit 10 hours per week to complete the tasks assigned by your mentor. Your mentor will meet you online every week to review your code and answer any questions you have.
 
@@ -16,9 +20,6 @@ Online mentorship weekly with check-in meetings.
 
 ## When
 
-There are two sessions or waves:
-
-* February 23rd - March 23rd
-* February 28th - March 28th.
+Continuous with start and stop dates depending on mentor/mentee availability.
 
 We’re expecting a 10-hour weekly time commitment on average for mentees, so approximately 40 hours.
