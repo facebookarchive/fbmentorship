@@ -21,3 +21,7 @@ Online, with weekly check-in meetings.
 ## When
 
 Start and end dates will be mutually agreed upon with the mentor depending on availability.
+
+## How To Apply
+
+Fill out [this application form](http://bit.ly/apply-fb-oss) to apply for mentorship.
