@@ -8,7 +8,7 @@ As a mentor, you're expected to be the main point of contact for the mentees who
 
 **You are their main point of contact, and the majority of the mentee's experience (good or bad) will depend on you**
 
-The goal of the program is to get mentees familiar with making open source contributions, and trying to get them self sufficient. It's fine if they don't make a large amount of contributions, as long as they are able to dig in on their own and make a contribution independently by the end of it; so they can be self-sufficient. **(NB: Someone should check my assumptions here)**
+The goal of the program is to get mentees familiar with making open source contributions, and trying to get them self sufficient. It's fine if they don't make a large amount of contributions, as long as they are able to dig in on their own and make a contribution independently by the end of it; so they can be self-sufficient. 
 
 You will be expected to:
 

@@ -23,7 +23,7 @@ In the first meeting, make sure to set all the expectations of the program clear
 * Introduce yourself: “Hi, I'm X, I work at Facebook on Y, I'm from Z, etc” — get the mentee comfortable and build up a relationship
 * Ask them to introduce themselves - ask about their work/school, what interested them in the program, etc - try to be genuinely interested and build a friendship
 * Ask about their interests, why they applied for the program, what they like about it, and what they would like to get out of it. Also try to gauge their technical expertise so you can plan starter tasks and the rest of the program accordingly
-* Introduce them to what the program is, and what their expectations are. Reference this flyer (TODO) and talk about how the expectation is for them to focus on learning and making a meaningful contribution; not necessarily to hit one check-list of things to do.
+* Introduce them to what the program is, and what their expectations are. Reference the documentation on this website and talk about how the expectation is for them to focus on learning and making a meaningful contribution; not necessarily to hit one check-list of things to do.
 * Set the expectations for regular check-ins, filling out status updates, and what your availability is and how they can best reach you.
 * Corollary to the above two points: emphasize the program is about learning and their growth and it's okay if they need to take some time away from the program to focus on life, studies, exams, etc. Try to cultivate a solid relationship so they feel comfortable letting you know they'll be away, versus just disappearing.
 * Talk about how you'll be there to support them through the program by providing advice on how to proceed and some limited technical debugging here and there.
@@ -36,7 +36,7 @@ Talking about working at Facebook, or the engineering culture here, and spending
 
 ## Follow-up meetings
 
-Before the meeting: go over their status update / report (TODO: link to the template).
+Before the meeting: go over the status update / report that they sent you..
 If they haven't had time to fill it out, ask them to describe it verbally and ask them to fill it in during/after the meeting.
 
 During the meeting, this flow usually helps:
