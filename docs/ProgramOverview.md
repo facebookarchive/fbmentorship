@@ -24,4 +24,4 @@ Start and end dates will be mutually agreed upon with the mentor depending on av
 
 ## How To Apply
 
-Fill out [this application form](http://bit.ly/apply-fb-oss) to apply for mentorship.
+Fill out [this application form](http://bit.ly/fb-oss-mentorship) to apply for mentorship.
