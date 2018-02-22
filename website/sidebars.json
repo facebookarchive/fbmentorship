@@ -1,23 +1,21 @@
 {
   "docs": {
     "Introduction": [
-      "program-overview"
+      "program-overview",
+      "program-timeline"
     ],
     "Contributing": [
       "contributing-getting-started",
-      "contributing-create-a-pull-request",
+      "contributing-finding-a-project",
+      "contributing-workflow",
       "contributing-best-practices",
-      "contributing-mentor-best-practices"
+      "contributing-working-with-a-mentor"
     ],
     "Mentoring": [
       "mentoring-getting-started",
-      "mentoring-expectations",
-      "mentoring-communication",
-      "mentoring-mentee-best-practices"
-    ],
-    "Administration": [
-      "admin-getting-started",
-      "admin-reporting"
+      "mentoring-finding-a-project",
+      "mentoring-working-with-a-mentee",
+      "mentoring-best-practices"
     ]
   }
 }

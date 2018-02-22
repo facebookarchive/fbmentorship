@@ -1,20 +1,28 @@
 ---
-id: contributing-create-a-pull-request
-title: How to Create a Pull Request
-sidebar_label: Create a Pull Request
+id: contributing-workflow
+title: Contributing Workflow
+sidebar_label: Workflow
 ---
 
-Instructions on creating a pull request.
+Once you've identified a good project to work on as well as an issue, then it's time to get started with your contibution.
 
-Here's [a good resource](http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/) that explains the workflow in general.
+The general steps you want to follow are:
 
-You may also want to keep this [Git cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) handy if you ever get stuck or just need a reference.
+1. **Claim the issue**: Let the project owner and community know that you want to tackle the issue. You can comment on an existing issue or create a new one if it doesn't exist.
+1. **Discuss your solution**: Get buy in from the community by outlining how you intend to solve the issue. This may prevent unnecessary changes down the line.
+1. **Work on your changes**: Fork the repository, clone your fork locally, and implement your changes.
+1. **Create a pull request**: Push your changes to your clone of the repo then create a pull request to the original repo.
+1. **Make review changes**: Update your work based on any review feedback.
 
-## Fork the GitHub repository
+If you completed the [initial training](ContributingGettingStarted.md#initial-training) then you should be familiar with the workflow involved with making your changes. We've provided them here in case you need a reference or more details.
 
-[GitHub reference doc](https://help.github.com/articles/fork-a-repo/)
+## Implementation Workflow
 
-## Clone your fork
+### Fork the GitHub repository
+
+Follow these [GitHub instructions](https://help.github.com/articles/fork-a-repo/) to fork the repository. A fork is basically a copy of the original repository. You want to work on your own copy so you can make changes without affecting the original project.
+
+### Clone your fork
 
 Example for this project:
 
@@ -22,11 +30,13 @@ Example for this project:
 git clone https://github.com/YOUR-USERNAME/fbmentorship
 ```
 
-## Create a branch
+Where `YOUR-USERNAME` should be replaced with your GitHub username.
 
-[GitHub reference](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
+### Create a branch
 
-The GitHub doc shows you how to do this via their website. You can also do this on the command line. First go to the directory where you cloned your fork of the repository.
+You can create a branch either on [GitHub](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) or via the command line. You're likely going to want to do this on the command line since you've already created a local clone of your fork in the previous step.
+
+Go to the directory where you cloned your fork of the repository and run the following:
 
 ```bash
 git checkout -b SOME-BRANCH-NAME
@@ -43,17 +53,17 @@ git checkout SOME-BRANCH-NAME
 
 The first command creates a new branch and the second switches to the specified branch.
 
-## Make your changes
+### Make your changes
 
 Using your favorite editor and tools related to the project, make code changes. Always keep in mind the contributing guidelines for a project. For example, you can find [React Native's guidelines here](https://github.com/facebook/react-native/blob/master/CONTRIBUTING.md).
 
 Typically the guidelines should give you info on style guides and testing requirements.
 
-## Test your changes
+### Test your changes
 
 You'll want to make sure your code is working per instructions for the project.
 
-## Commit your changes locally
+### Commit your changes locally
 
 You can do this multiple times before you're completely done.
 
@@ -80,7 +90,7 @@ git push origin SOME-BRANCH-NAME
 
 Replace `SOME-BRANCH-NAME` with the actual name of your branch.
 
-## Initiate the pull request
+### Initiate the pull request
 
 Now that your changes are up on your cloned repository, you can initiate a pull request to the original project.
 
@@ -90,7 +100,7 @@ When you make a pull request, be sure to conform to any guidelines or templates 
 
 Once you've gone through this process, there should be a new pull request in the original project.
 
-## Make any review changes
+### Make any review changes
 
 At this point it's in the reviewer's plate. They may come back with changes after reviewing your code.
 
@@ -112,9 +122,7 @@ git push origin SOME-BRANCH-NAME
 
 Replace `SOME-BRANCH-NAME` with the actual name of your branch.
 
-## Keeping your fork up to date
-
-[GitHub reference doc](https://help.github.com/articles/syncing-a-fork/)
+### Keeping your fork up to date
 
 Before you can sync your fork with an upstream repository, you must [configure a remote that points to the upstream repository](https://help.github.com/articles/configuring-a-remote-for-a-fork/) in Git.
 
@@ -128,3 +136,13 @@ git push origin master
 git checkout feature-branch
 git rebase master
 ```
+
+## Additional Resources
+
+You can also check out these helpful resources if you run into any issues:
+
+* [Beginning Git](https://videos.raywenderlich.com/courses/86-beginning-git/lessons/1) and [Mastering Git](https://videos.raywenderlich.com/courses/87-mastering-git/lessons/1) video tutorial from raywenderlich.com.
+
+* [Using the Fork-and-Branch Git Workflow](http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/) by Scott Lowe.
+
+* [Git Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) from GitHub.

@@ -4,16 +4,20 @@ title: Getting Started as a Contributor
 sidebar_label: Getting Started
 ---
 
-Here's some steps you can take once you've identified a project you want to contribute to.
+As part of [the program](ProgramOverview.md), you'll be guided through how to get started with contributing to open source. Your guided tour will involve working on an issue in an existing open source project, most likely a Facebook project.
 
-Finding a project to contribute to can be challenging. You should look to contribute to projects you're actively using. If you're interested in contributing to a project you haven't started using, then take a step back and use it for some time.
+## Initial Training
 
-Typical contribution steps:
+The program will take you through 3 phases:
 
-1. Create an account on GitHub
-1. Explore the repository you want to contribute to.
-1. Use the project and get familiar with how it works.
-1. Lurk on any support channels to see how things work within that project's community.
-1. Look for beginner tasks. Most projects add labels to issues that are good first tasks. The labels usually differ from one project to another, but are often like 'starter-task', 'first-task', 'easy', 'beginner', and so on.
-1. Once you've found an issue, comment on it to let the project maintainer and the community know that you want to tackle it.
-1. Create a pull request and reference the related issue so the community is aware that there's on-going work.
+1. Ensuring you're comfortable with Git and GitHub.
+1. Getting you setup with the project you'll be working with.
+1. Working on your project assignment.
+
+The first phase is what you'll need to get started as a contributor.
+
+Watch this [Beginning Git](https://videos.raywenderlich.com/courses/86-beginning-git/lessons/1) tutorial on raywenderlich.com if you're new to Git. It's pretty useful even if you have prior experience with Git.
+
+Check out the [Mastering Git](https://videos.raywenderlich.com/courses/87-mastering-git/lessons/1) course as well. It covers advanced topics such as handling merge conflicts, something you're sure to encounter in your contributor life.
+
+Your mentor will guide you on which videos you should watch and check in on you to make sure you've done this. You'll also be given related exercises to complete to ensure you're comfortable with Git and GitHub.
