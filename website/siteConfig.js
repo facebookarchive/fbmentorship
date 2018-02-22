@@ -14,6 +14,7 @@ const siteConfig = {
   url: "https://facebookmicrosites.github.io" /* your website url */,
   baseUrl: "/fbmentorship/" /* base url for your project */,
   projectName: "fbmentorship",
+  organizationName: "facebookmicrosites",
   headerLinks: [
     { doc: "program-overview", label: "Docs" },
     { doc: "contributing-getting-started", label: "Contributing" },
