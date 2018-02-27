@@ -846,7 +846,7 @@ detect-indent@^4.0.0:
   dependencies:
     repeating "^2.0.0"
 
-docusaurus@^1.0.0-beta.13:
+docusaurus@^1.0.7:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/docusaurus/-/docusaurus-1.0.7.tgz#54fc4ae0c25e510b0a3a2742f8c555cbf2083e94"
   dependencies:
