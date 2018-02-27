@@ -1,0 +1,21 @@
+{
+  "docs": {
+    "Introduction": [
+      "program-overview",
+      "program-timeline"
+    ],
+    "Contributing": [
+      "contributing-getting-started",
+      "contributing-finding-a-project",
+      "contributing-workflow",
+      "contributing-best-practices",
+      "contributing-working-with-a-mentor"
+    ],
+    "Mentoring": [
+      "mentoring-getting-started",
+      "mentoring-finding-a-project",
+      "mentoring-working-with-a-mentee",
+      "mentoring-best-practices"
+    ]
+  }
+}

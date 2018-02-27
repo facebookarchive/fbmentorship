@@ -1,0 +1,12 @@
+{
+  "name": "fbmentorship-training",
+  "version": "1.0.0",
+  "description": "Open source training project",
+  "repository": "git@github.com:facebookmicrosites/fbmentorship.git",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
