@@ -80,11 +80,11 @@ workflows:
       - test-training:
           filters:
             branches:
-              only:
-                - master
+              ignore: gh-pages
       - deploy-website:
           filters:
             branches:
-              ignore: gh-pages
+              only:
+                - master
 
 
