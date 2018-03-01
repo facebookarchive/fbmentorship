@@ -141,8 +141,10 @@ git rebase master
 
 You can also check out these helpful resources if you run into any issues:
 
-* [Beginning Git](https://videos.raywenderlich.com/courses/86-beginning-git/lessons/1) and [Mastering Git](https://videos.raywenderlich.com/courses/87-mastering-git/lessons/1) video tutorial from raywenderlich.com.
+* [Pro Git book](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub.
 
 * [Using the Fork-and-Branch Git Workflow](http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/) by Scott Lowe.
+
+* [Beginning Git](https://videos.raywenderlich.com/courses/86-beginning-git/lessons/1) and [Mastering Git](https://videos.raywenderlich.com/courses/87-mastering-git/lessons/1) video tutorial from [raywenderlich.com](https://www.raywenderlich.com/).
 
 * [Git Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) from GitHub.
