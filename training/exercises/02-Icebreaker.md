@@ -20,4 +20,5 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 
 ### Add Your Info Below...
 
-
+Hello my name is Manish Bisht.
+My favorite quote is "When you love what you have, you have everything you need.".
