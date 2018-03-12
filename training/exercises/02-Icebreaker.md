@@ -20,4 +20,8 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 
 ### Add Your Info Below...
 
+<pre>
+Yellow, my name is Riza..
+My favorite quote is "Less is more".
+</pre>
 
