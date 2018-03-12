@@ -1,12 +1,5 @@
-/**
- * Copyright (c) 2018-present, Facebook, Inc. All rights reserved.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
+const substract = require("../substract");
 
-const multiply = require('../multiply');
-
-test('multiply 1 * 2 to equal 3', () => {
-  expect(multiply(1, 2)).toBe(3);
+test("substract 2 with 1 equal 1", () => {
+  expect(substract(2, 1)).toEqual(1);
 });
