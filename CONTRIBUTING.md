@@ -47,7 +47,7 @@ npm install -g yarn
 ```
 
 
-Go to the top-level folder for this repository on your machine and run the following command:
+Go to the training folder in this repository on your machine and run the following command:
 
 ```sh
 yarn install
@@ -55,7 +55,7 @@ yarn install
 
 **Running Jest tests**
 
-In your top-level folder, run the following whenever you want to test your changes:
+In the training folder, run the following whenever you want to test your changes:
 
 ```sh
 yarn test
@@ -64,18 +64,18 @@ You should see something similar to the following:
 
 ```sh
 $ yarn test
-Using globally installed version of Yarn
-yarn test v0.21.2
+yarn run v1.5.1
+warning package.json: No license field
 $ jest
+ PASS  js/__tests__/multiply.test.js
  PASS  js/__tests__/sum.test.js
-  ✓ adds 1 + 2 to equal 3 (2ms)
 
-Test Suites: 1 passed, 1 total
-Tests:       1 passed, 1 total
+Test Suites: 2 passed, 2 total
+Tests:       2 passed, 2 total
 Snapshots:   0 total
-Time:        0.816s, estimated 1s
+Time:        0.565s, estimated 1s
 Ran all test suites.
-✨  Done in 1.68s.
+✨  Done in 1.11s.
 ```
 Expect to see more tests listed as more tests are added.
 
