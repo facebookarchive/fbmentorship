@@ -24,3 +24,9 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 I am not the developer you are looking for.
 Seriously, being doxxed and swatted sucks. 
 ASK ME HOW I KNOW.
+
+<pre>
+👋 I'm Amy. 
+I love playing dodgeball. League play is 20 on 20, with 7 balls on the court. 
+I have a dog named Tessy. She is a spunky Lakeland Terrier.
+</pre>
