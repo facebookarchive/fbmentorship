@@ -64,18 +64,18 @@ You should see something similar to the following:
 
 ```sh
 $ yarn test
-Using globally installed version of Yarn
-yarn test v0.21.2
+yarn run v1.5.1
 $ jest
+ PASS  js/__tests__/divide.test.js
+ PASS  js/__tests__/multiply.test.js
  PASS  js/__tests__/sum.test.js
-  ✓ adds 1 + 2 to equal 3 (2ms)
 
-Test Suites: 1 passed, 1 total
-Tests:       1 passed, 1 total
+Test Suites: 3 passed, 3 total
+Tests:       3 passed, 3 total
 Snapshots:   0 total
-Time:        0.816s, estimated 1s
+Time:        0.845s, estimated 1s
 Ran all test suites.
-✨  Done in 1.68s.
+✨  Done in 1.34s.
 ```
 Expect to see more tests listed as more tests are added.
 
