@@ -25,7 +25,7 @@ In fact, if a document named `CONTRIBUTING` exists then you'll see it linked whe
 
 When you write up your PR, you should provide enough detail to help reviewer. You'll want to explain:
 
-* Why you made your changes? Basically, what was the motiviation behind your work?
+* Why you made your changes? Basically, what was the motivation behind your work?
 * How did you test your changes? A test plan is highly appreciated if code changed. Mention the exact steps you took to test your changes. Screenshots and videos are also welcome where it makes sense.
 
 Project maintainers can set up a special file to prompt you for the information they're looking for when you create a PR. Be sure to fill out all the requested details.
