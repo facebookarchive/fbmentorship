@@ -5,8 +5,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-const sum = require('../sum');
+const divide = require('../divide');
 
-test('adds 1 + 2 to equal 3', () => {
-  expect(sum(1, 2)).toBe(3);
+test('divides 4 / 2 to equal 2', () => {
+  expect(divide(4, 2)).toBe(2);
 });
