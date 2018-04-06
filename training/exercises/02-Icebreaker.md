@@ -24,3 +24,9 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 I am not the developer you are looking for.
 Seriously, being doxxed and swatted sucks. 
 ASK ME HOW I KNOW.
+
+<pre>
+Hello my name is Sonu.
+A favorite quote is from Fight Club (aren't they always?): "Dream big because one day they will becvome true."
+Tyler: We are consumers. We're the by-products of a lifestyle obsession.
+</pre>
