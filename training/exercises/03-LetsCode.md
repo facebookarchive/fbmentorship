@@ -14,7 +14,7 @@ Your mission is to fix the broken code and if you feel brave, add your own new f
 
 Fixing the broken:
 
-1. Check out the [contributing guidelines](../../CONTRIBUTING.md) for more info around what's expected.
+1. Check out the [contributing guidelines](/CONTRIBUTING.md) for more info around what's expected.
 1. Find the bad code.
 1. Send a pull request with your fixes for the bad code.
 1. Go through the pull request review phase.
@@ -22,7 +22,7 @@ Fixing the broken:
 
 Adding new functions:
 
-1. Check out the [contributing guidelines](../../CONTRIBUTING.md) for more info around what's expected.
+1. Check out the [contributing guidelines](/CONTRIBUTING.md) for more info around what's expected.
 1. Add your new function.
 1. Send a pull request with your additions. Don't forget to add tests!
 1. Go through the pull request review phase.
@@ -36,4 +36,4 @@ You can test your code fixes online starting with this [JS Fiddle](https://jsfid
 
 **Locally**
 
-You could even run tests locally using [Jest](http://facebook.github.io/jest/). See the [contributing guidelines](../CONTRIBUTING.md) for more instructions on setting this up.
+You could even run tests locally using [Jest](http://facebook.github.io/jest/). See the [contributing guidelines](/CONTRIBUTING.md) for more instructions on setting this up.
