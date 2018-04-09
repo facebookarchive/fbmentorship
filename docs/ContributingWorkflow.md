@@ -42,7 +42,7 @@ Go to the directory where you cloned your fork of the repository and run the fol
 git checkout -b SOME-BRANCH-NAME
 ```
 
-Replace `FEATURE-NAME` with something that describes the enhancement of fix your'e making. For example if you're adding Android documentation for native modules in React Native, you could name your branch `android-add-native-modules-doc`.
+Replace `SOME-BRANCH-NAME` with something that describes the enhancement of fix your'e making. For example if you're adding Android documentation for native modules in React Native, you could name your branch `android-add-native-modules-doc`.
 
 After you run this command you'll be switched to the newly created branch. The command above is equivalent to the following:
 
@@ -71,6 +71,8 @@ You can do this multiple times before you're completely done.
 git add LIST-OF-CHANGED-FILES
 git commit -m "some commit message"
 ```
+
+Replace `LIST-OF-CHANGED-FILES` with the actual changed file names.
 
 Whenever you're ready to send over your pull request, rebase to squash any multiple commits into one.
 
