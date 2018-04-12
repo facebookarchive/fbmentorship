@@ -4,7 +4,7 @@ title: Program Timeline
 sidebar_label: Program Timeline
 ---
 
-The Facebook Open Source Mentorship progam runs 6 weeks and has flexible start dates to accommodate different geographies and audience time constraints.
+The Facebook Open Source Mentorship program runs 6 weeks and has flexible start dates to accommodate different geographies and audience time constraints.
 
 The following describes a typical mentorship timeline. Keep in mind that this may run differently depending on availability, unplanned roadblocks, or project complexity. 
 

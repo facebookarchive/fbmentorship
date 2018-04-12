@@ -50,7 +50,7 @@ During the meeting, this flow usually helps:
 * Discuss their status update:
     * Highlight what they've accomplished and reinforce the good practices they have.
     * Ask what they liked about it and what they didn't.
-    * Talk about any technical concerns arounnd the work they did and how they can on improve their code (if they can).
+    * Talk about any technical concerns around the work they did and how they can on improve their code (if they can).
     * Discuss aspects of communication or how to improve on PRs.
     * Ask about their plans for the next week and how you can help with them.
 
