@@ -22,6 +22,11 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 ### Add Your Info Below...
 
 <pre>
+Hello my name is Saransh Kataria. I am a tech enthusiast who loves playing with different technologies.
+My favorite quote is one that I wrote "For over and over, I have failed and in the process of losing it all, I realised that I might actually win".
+</pre>
+
+<pre>
 Hello my name is Manish Bisht.
 My favorite quote is "When you love what you have, you have everything you need.".
 </pre>
@@ -37,4 +42,3 @@ ASK ME HOW I KNOW.
 I love playing dodgeball. League play is 20 on 20, with 7 balls on the court. 
 I have a dog named Tessy. She is a spunky Lakeland Terrier.
 </pre>
-
