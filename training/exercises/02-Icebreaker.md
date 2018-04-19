@@ -42,3 +42,7 @@ ASK ME HOW I KNOW.
 I love playing dodgeball. League play is 20 on 20, with 7 balls on the court. 
 I have a dog named Tessy. She is a spunky Lakeland Terrier.
 </pre>
+
+<pre>
+I am Sri Harsha Gajavalli, a Cyber Forensic enthusiast with great experience in Machine Learning, back-end programming and maintaining critical and complex systems. I am the Founder of Farmyzer, AI Community Lead. Currently, I am working on developing an AI-powered tool for farmers and Intelligent Security Systems for enterprises and organisations.
+</pre>
