@@ -12,7 +12,7 @@ This is an exercise to walk through a simple contribution flow.
 Info to add:
 
 <pre>
-Hello my name is Sri Harsha.
+Hello my name is Aimee.
 A favorite quote is from Fight Club (aren't they always?):
 Tyler: We are consumers. We're the by-products of a lifestyle obsession.
 </pre>
