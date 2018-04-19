@@ -1,13 +1,13 @@
 # Greatness ensues
 
-Developer Friends and People,
+Developer peeps,
 
-This is the best learning and mentoring project you will come across - or at least that is our goal!
+This is the best project you'll come across in your life.
 
-I need your help! Because one of us isn't as smart as all of us put together!
+Unfortunately, I can't build it myself so I need your help!
 
-Your first mission, should you chose to accept it, is to edit what you find and fix all the really odd things and spelling mistakes throughout the documentation. I appreciate you helping me fix them!
+Your mission, if you chose to accpt it, is to find all the rlly od things and spelng mistakes that are all over and please halp me fixs them.
 
-I'd also love to see code and your ideas. The more code, the better. Together and collectively, we can strive to improve this experience in more ways than I can anticipate.
- 
+I'd also love to see code, more code than I can ver put togethr myself.
+
 ENJOY!!
