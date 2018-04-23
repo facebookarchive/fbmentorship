@@ -5,11 +5,8 @@
  * LICENSE file in the root directory of this source tree.
  */
  
-/*
- * Multiply me, I think
- */
+const substract = require('../substract');
 
-function multiply(a, b) {
-  return a * b;
-}
-module.exports = multiply;
+test('adds 3 - 1 to equal 2', () => {
+  expect(substract(3, 1)).toBe(2);
+});
