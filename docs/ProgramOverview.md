@@ -19,6 +19,7 @@ At the end of the program, mentees get feedback on what worked well and areas to
 You don't have to be a part of Facebook's Open Source Mentorship program to get started with contributing to open source. The following resources can help you on your way:
 
 * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - guide to making open source contributions for first-timers.
+* [First Contributions](https://roshanjossey.github.io/first-contributions/) - A project to help beginners contribute to open source projects. A hands-on tutorial to learn the workflow, a web app to find projects, a Slack team to get help.
 * [Patchwork](http://patchwork.github.io/) - casual, mentored workshops for beginners to Git and GitHub.
 * [Your First PR](http://yourfirstpr.github.io/) - showcases great starter issues to get started with open source contributions.
 * [Up For Grabs](http://up-for-grabs.net/) - lists projects which have curated tasks specifically for new contributors.
