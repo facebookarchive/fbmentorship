@@ -50,3 +50,7 @@ I am Sri Harsha Gajavalli, a Cyber Forensic enthusiast with great experience in 
 <pre>
 I'm Sujono, Lead Front End Engineer at Xendit. Love React and Front End stuff right now
 </pre>
+
+<pre>
+I am AViral, A Tech Enthusiast,beginner in entrepreneurship, boring/Happy at life. I am an iOS Developer. I love watching movies and a big time superhero and war movies fan! 
+</pre>
