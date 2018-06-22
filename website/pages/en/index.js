@@ -86,7 +86,7 @@ class Index extends React.Component {
       <div>
         <HomeSplash language={language} />
         <div className="mainContainer">
-          <Container padding={["bottom", "top"]}>
+          <Container padding={["bottom", "top"]} background="light">
             <GridBlock
               align="center"
               contents={[
@@ -107,7 +107,7 @@ class Index extends React.Component {
             />
           </Container>
 
-          <Container padding={["bottom", "top"]} background="light">
+          <Container padding={["bottom", "top"]}>
             <GridBlock
               contents={[
                 {

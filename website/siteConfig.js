@@ -39,13 +39,14 @@ const siteConfig = {
     " Facebook, Inc.",
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
-    theme: "default"
+    theme: "ocean"
   },
   scripts: [
     "https://buttons.github.io/buttons.js"
   ],
   // You may provide arbitrary config keys to be used as needed by your template.
   repoUrl: "https://github.com/facebookmicrosites/fbmentorship",
+  cleanUrl: true,
 };
 
 module.exports = siteConfig;
