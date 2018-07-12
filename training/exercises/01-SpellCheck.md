@@ -1,4 +1,6 @@
-# Greatness ensues
+# Greatness Ensues
+
+**Note: As this is a training exercise shared by every mentee, please fix only *one* typo in this file!**
 
 Developer peeps,
 
