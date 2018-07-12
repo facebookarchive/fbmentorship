@@ -23,8 +23,6 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 <pre>
 Greetings and Konnichiwa,
 
-The coolest song I've recently listened too is ["The Trio" - by Ennio Morricone](https://www.youtube.com/watch?v=cWo__6Xn6Qs). How about that trumpet!? And what a buildup...
-
 My name is Christopher. At the moment I'm in a the far away land of the vermilion rising sun. According to friends and family my top talents are creativity, imaginative, self-examing, artistic, tenacious, and empathetic. I've always loved to learn. As a kid I took things apart and attempted to put them back together again.
 
 Throughout school I'd often daydream during class and doodle. Because I was inspired by the T.V. shows DragonBall Z, Samurai Jack (which also peaked my interest in Japan), and Dexter's Laboratory, I began to be interested in drawing, painting, art, and science.
