@@ -23,15 +23,15 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 <pre>
 Greetings and Konnichiwa,
 
-My name is Christopher. At the moment I'm in a the far away land of the vermilion rising sun. According to friends and family my top talents are creativity, imaginative, self-examing, artistic, tenacious, and empathetic. I've always loved to learn. As a kid I took things apart and attempted to put them back together again.
+My name is Christopher. At the moment I'm living in the far away land of the vermilion rising sun. According to friends and family my top talents are creativity, imagination, self-examing, artistic, tenacity, and empathety. I've always loved to learn. I like to take things apart and put them back together again, compare and contrast, and tinker.
 
-Throughout school I'd often daydream during class and doodle. Because I was inspired by the T.V. shows DragonBall Z, Samurai Jack (which also peaked my interest in Japan), and Dexter's Laboratory, I began to be interested in drawing, painting, art, and science.
+In my childhood I was inspired by the T.V. shows DragonBall Z, Samurai Jack (which also peaked my interest in Japan), and Dexter's Laboratory. As a result I began to be interested in drawing, painting, art, and science. I often daydream and doodle, and sometimes I get swept away by my own thoughts and deep feelings.
 
-I often get swept away by my own thoughts and deep feelings.
+Here's a short meditation: Any aspect of knowledge can be seen as a seed. If you consistently water and nurture it, it will eventually grow into a strong and fruitful tree. Once you've got a solid tree growing, you'll find it easier to grow other trees. Some trees even connect and benefit others! How cool is that!?
 
-Here's a short meditation: Any aspect of knowledge can be seen as a seed. If you consistently water and nurture it, it will eventually grow into a strong and fruitful tree. Once you've got a solid tree growing, you'll find it easier to grow other trees. Some trees even connect and benefit others!
+I think technology has great potential to help and benefit people.
 
-And finally since I moved to Japan, I became a Christian. I've found a new favorite teacher. The Lord Jesus Christ. I think His teachings to love and care for one another as we would ourselves are wonderful.
+And finally when I moved to Japan, I became a Christian. I've found a new favorite teacher. The Lord Jesus Christ. I think His teachings to love and care for one another as we would ourselves are wonderful.
 
 This Earth and life in all its majesty leaves much to be experienced, gained, and learned.
 
