@@ -11,13 +11,3 @@ Your mission, if you chose to accept it, is to find all the really odd things an
 I'd also love to see code, more code than I can ver put together myself.
 
 ENJOY!!
-
-```javascript
-  const breakSelfByWritingTooMuchCode = () => {
-    return putSelfTogether()
-  }
-
-  const putSelfTogether = () => {
-    return breakSelfByWritingTooMuchCode ()
-  }
-```
