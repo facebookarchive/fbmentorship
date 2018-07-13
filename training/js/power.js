@@ -6,7 +6,7 @@
  */
 
 /*
- * Raise base to the specified power [ranger]
+ * Raises base to the specified power [ranger]
  */
 
 function power(base, exponent) {
