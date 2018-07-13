@@ -5,8 +5,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-const sum = require('../sum');
+const power = require('../power');
 
-test('adds 1 + 2 to equal 3', () => {
-  expect(sum(1, 2)).toBe(3);
+test('raises 2 to the power of 3 to equal 8', () => {
+  expect(power(2, 3)).toBe(8);
 });

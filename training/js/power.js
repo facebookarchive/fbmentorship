@@ -5,8 +5,14 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-const sum = require('../sum');
+/*
+ * Raises base to the specified power [ranger]
+ */
 
-test('adds 1 + 2 to equal 3', () => {
-  expect(sum(1, 2)).toBe(3);
-});
+function power(base, exponent) {
+  if (exponent == 0)
+    return 1
+
+  return base * power(base, exponent - 1)
+}
+module.exports = power;
