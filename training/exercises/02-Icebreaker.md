@@ -20,6 +20,9 @@ Tyler: We are consumers. We're the by-products of a lifestyle obsession.
 Be warned, reviewers may dare you to add flare. If you don't know what flare is, watch [Office Space](https://en.wikipedia.org/wiki/Office_Space) when you have a minute.
 
 ### Add Your Info Below...
+<pre>
+Hello my name is Shubham Bansal. I am a competitive programmer enthusiast. I enjoy solving puzzles and other challenging problems. I love watching football. 
+</pre>
 
 <pre>
 Hello my name is Saransh Kataria. I am a tech enthusiast who loves playing with different technologies.
